@@ -1,2 +1,2 @@
-# blackswn-waf
-Nginx for allocation system
+# Auth-waf
+Nginx for Authentication
